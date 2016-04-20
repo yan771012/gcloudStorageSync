@@ -1,0 +1,9 @@
+{
+    "gs_project_id": "",
+    "gs_bucket": "",
+    "ftp_addr": "",
+    "ftp_user": "",
+    "ftp_passwd": "",
+    "ftp_root": "",
+    "allow_stores": [""]
+}
